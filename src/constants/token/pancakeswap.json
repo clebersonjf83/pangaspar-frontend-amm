@@ -1,0 +1,21 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "ZCore Finance",
+      "symbol": "ZEFI",
+      "address": "0xa9f3612a7612d8861adc1fcf55c1218d49bb87710xa9f3612a7612d8861adc1fcf55c1218d49bb8771",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://zcore.network/coins/ZEFI.png"
+    },
+    
