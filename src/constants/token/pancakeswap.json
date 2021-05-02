@@ -13,7 +13,7 @@
     {
       "name": "ZCore Finance",
       "symbol": "ZEFI",
-      "address": "0xa9f3612a7612d8861adc1fcf55c1218d49bb87710xa9f3612a7612d8861adc1fcf55c1218d49bb8771",
+      "address": "0xa9F3612a7612D8861adc1fcf55C1218d49BB8771",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://zcore.network/coins/ZEFI.png"
