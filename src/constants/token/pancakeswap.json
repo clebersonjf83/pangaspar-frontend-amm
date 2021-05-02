@@ -1,6 +1,6 @@
 {
   "name": "pancakeswap",
-  "timestamp": "2020-08-25T15:41:29.665Z",
+  "timestamp": "2021-05-15T15:14:29.665Z",
   "version": {
     "major": 1,
     "minor": 3,
@@ -16,6 +16,6 @@
       "address": "0xa9F3612a7612D8861adc1fcf55C1218d49BB8771",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://zcore.network/coins/ZEFI.png"
+      "logoURI": "https://svgsilh.com/svg/295359.svg"
     },
     
